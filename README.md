@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning the lifecylce of an application
 - 🌱 I’m currently learning Angular, CSS and Html
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me at joseph_egbo@yahoo.com
 
 <!---
 genosdagreat/genosdagreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
