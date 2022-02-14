@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @genosdagreat
-- 👀 I’m interested in learning the lifecylce of an application
-- 🌱 I’m currently learning Angular, CSS and Html
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m Looking for collaboarte with other developers 
+- 🌱 I know React, Javscript, HTML and CSS.
+- 💞️ I’m looking to collaborate on React projects 
 - 📫 You can reach me at joseph_egbo@yahoo.com
 
 <!---
